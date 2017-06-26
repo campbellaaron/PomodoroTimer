@@ -107,9 +107,3 @@
 #pomodoro {
     -fx-fit-height: 34px;
 }
-
-#copyright {
-    -fx-text-alignment: right;
-    -fx-alignment: bottom-right;
-    -fx-opacity: 0.8;
-}

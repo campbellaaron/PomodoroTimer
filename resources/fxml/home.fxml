@@ -12,7 +12,7 @@
       fx:controller="com.doomedforfailure.pomodoro.controllers.Home"
       fx:id="container">
     <children>
-        <Label fx:id="title" text="'Tomato' in Italian"/>
+        <Label fx:id="title" text="Pomodoro Arigatoo, Mr. Tomato"/>
 
         <Label fx:id="time" text="${controller.timerText}"/>
 
